@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Pause.cpp
+  Generating code
+  12 of 21 functions (57.1%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CppHelloWorld.vcxproj -> C:\Program Files (x86)\Sorted\Coding\Cpp\Learning\CppHelloWorld\Release\CppHelloWorld.exe
